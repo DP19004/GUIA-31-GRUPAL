@@ -1,0 +1,9 @@
+/* mb21004-ejemplo1b.css   SUCARNET  */
+
+fichero {background-color:gray;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion{color:cyan;font-size:1cm; display:none;}
+correo {color:blue;font-size:1cm; display:inline;}
+telefono{color:green; display:inline;}
