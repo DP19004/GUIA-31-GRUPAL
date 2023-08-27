@@ -1,0 +1,30 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Ahuachapán",
+				"cabecera":"Ahuachapán",
+				"habitantes":"333,406",
+				"Areaterritorial":"1239,6km2",
+				"cantidadDistritos":"12"
+			},
+			{
+				"@id":"3",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa Ana",
+				"habitantes":"572,081",
+				"Areaterritorial":"2023,2km2",
+				"cantidadDistritos":"13"
+			}
+		]
+	}
+}
