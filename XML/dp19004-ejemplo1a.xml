@@ -9,6 +9,15 @@
 </ficha>
 
 
+<ficha id="2" fechaingreso="24/08/2023">
+<nombre>Tadeo</nombre>
+<apellido>Del Pinal</apellido>
+<direccion>Calle de Las Amapolas, 950</direccion>
+<correo>Jaun@gmail.com</correo>
+<telefono>77089212</telefono>
+</ficha>
+
+
 
 </fichero>
 

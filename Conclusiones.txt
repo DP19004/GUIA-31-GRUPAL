@@ -1,8 +1,9 @@
-tas haber practicado y hecho los ejercicios de la guia podemos concluir que el lengujae XML es una herramienta que le brinda a la creacion de paginas web una gran felxibilidad
-a la hora de querer tener ordenado por etiquetas o ficheros un codigo o una serie de datos que sean relevantes para tu proyecto, la ventaja con respecto a otro tipo de marcados es que XML 
-tambien permite una integracion con otras herramientas y lenguajes para poder crear estilos muchos mas detallados, bonitos y elegantes con CSS,
-asi como tambien poder convertir las etiquetas a formato Json para poder intercomunicar lo que HeMos codigificado en otro legunaje diferente, entre muchas otras cosas
-este lenguaje es sumamente facil de entender una vez has practicado un poco con el y curiosamente tambien es raro que pese a eso las relgas y nomenclaturas de XML no sean respetadas por
-muchos de los programadores y diseñadores de paginas web a dia de hoy, como pudimos ver en practicas anteriores la cantidad de errores en la estrutucarion de las paginas llevan a
-los desarrolladores a crear programas especificos para poder detectar lenguajes como el XML bien formados en un intento de cortar de raiz esta mala costumbre.
+XML es un lenguaje de marcado que ofrece flexibilidad para estructurar datos en la web y en diversas aplicaciones.
+ Su capacidad de integración con otros lenguajes, como CSS y la conversión a JSON, es una ventaja clave. Aunque fácil de comprender, 
+ a menudo se infringen sus reglas y convenciones. La falta de cumplimiento ha llevado al desarrollo de herramientas de validación.
+  Aunque comúnmente utilizado en la web, es importante recordar que XML es más genérico y se aplica en varios campos para organizar 
+  datos estructurados. Su utilidad trasciende la creación de páginas web.
+
+
+
 
