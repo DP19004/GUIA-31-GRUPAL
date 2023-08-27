@@ -1,0 +1,19 @@
+{
+  "pais": {
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM",
+        "esCapital": "si"
+      },
+      {
+        "cabecera": "Zacatecoluca",
+        "habitantes": "1,500,000",
+        "altura": "546 MSNM",
+        "esCapital": "no",
+        "aeropuerto": "si"
+      }
+    ]
+  }
+}
